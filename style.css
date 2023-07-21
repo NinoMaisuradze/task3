@@ -36,3 +36,27 @@ nav ul {
   height: 439px;
   background-color: #ebebf0;
 }
+
+.cars .middle {
+  margin: 0 20px;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #19126b;
+  height: 161px;
+}
+
+footer ul {
+  display: flex;
+}
+
+footer .middle {
+  margin: 0 20px;
+}
+
+.copyright {
+  color: white;
+}
