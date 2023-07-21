@@ -6,8 +6,25 @@
 ul,
 ol {
   list-style-type: none;
+  color: #2414db;
 }
 
 a {
   text-decoration: none;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+nav .middle {
+  margin: 0 121px;
+}
+
+nav ul {
+  display: flex;
 }
