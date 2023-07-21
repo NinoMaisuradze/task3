@@ -12,7 +12,9 @@ ol {
 a {
   text-decoration: none;
 }
-
+.active {
+  color: red;
+}
 header {
   display: flex;
   align-items: center;
