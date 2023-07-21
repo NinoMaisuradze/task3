@@ -28,3 +28,11 @@ nav .middle {
 nav ul {
   display: flex;
 }
+
+.cars {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 439px;
+  background-color: #ebebf0;
+}
