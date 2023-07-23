@@ -26,6 +26,18 @@ nav .middle {
   margin: 0 121px;
 }
 
+.welcome .title {
+  font-size: 36px;
+  font-weight: 400;
+  color: #17326e;
+}
+
+.welcome .description {
+  color: #090346;
+  font-size: 20px;
+  margin-top: 24px;
+}
+
 nav ul {
   display: flex;
 }
