@@ -36,6 +36,7 @@ nav .middle {
   color: #090346;
   font-size: 20px;
   margin-top: 24px;
+  margin-bottom: 120px;
 }
 
 nav ul {
@@ -70,27 +71,42 @@ footer .middle {
   margin: 0 20px;
 }
 
-.copyright {
-  color: white;
-}
-
-.three cars {
-  display: flex;
-  margin: 96px 1px;
-  height: 1440px;
-}
-
-h1 {
-  margin: 120px;
-  padding: 96px 1px;
-  color: #19126b;
-}
-
-p {
-  margin: 24px 144px;
-  color: #090346;
-}
-
 .about .title {
+  font-size: 36px;
+  color: #19126b;
+  font-weight: 400;
+}
+
+.about .ford {
+  color: #090346;
   font-size: 20px;
+  margin-top: 24px;
+  margin-bottom: 120px;
+}
+
+.history {
+  background-color: #ebebf0;
+  width: 1440px;
+  height: 516px;
+}
+
+.history .title {
+  color: #19126b;
+  font-size: 36px;
+  font-weight: 400;
+  margin-top: 73px;
+  margin-right: 1068px;
+  margin-bottom: 399px;
+  margin-left: 130px;
+}
+
+.history .description {
+  color: #090346;
+  font-size: 20px;
+}
+
+.old-car {
+  float: right;
+  width: 566px;
+  height: 371px;
 }
