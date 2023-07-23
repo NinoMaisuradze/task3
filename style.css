@@ -62,3 +62,9 @@ footer .middle {
 .copyright {
   color: white;
 }
+
+.three cars {
+  display: flex;
+  margin: 96px 1px;
+  height: 1440px;
+}
