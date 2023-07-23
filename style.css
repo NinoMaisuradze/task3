@@ -68,8 +68,17 @@ footer .middle {
   height: 1440px;
 }
 
-.text About us {
-  margin: 694px 130px;
-  height: 188px;
-  size: 20px;
+h1 {
+  margin: 120px;
+  padding: 96px 1px;
+  color: #19126b;
+}
+
+p {
+  margin: 24px 144px;
+  color: #090346;
+}
+
+.about .title {
+  font-size: 20px;
 }
