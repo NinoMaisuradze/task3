@@ -90,8 +90,8 @@ footer .middle {
 
 .history {
   background-color: #ebebf0;
-  width: 1440px;
-  height: 516px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .history .title {
