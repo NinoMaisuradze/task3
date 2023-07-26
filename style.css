@@ -97,6 +97,7 @@ footer .middle {
   background-color: #ebebf0;
   display: flex;
   justify-content: space-between;
+  margin-left: 130px;
 }
 
 .history img {
