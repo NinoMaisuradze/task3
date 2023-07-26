@@ -65,6 +65,7 @@ footer {
 
 footer ul {
   display: flex;
+  margin-left: 130px;
 }
 
 .copyrigth {
