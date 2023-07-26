@@ -113,3 +113,57 @@ footer .middle {
   color: #090346;
   font-size: 20px;
 }
+
+.contact h1 {
+  font-size: 36px;
+  font-weight: 400;
+  color: #19126b;
+  margin-top: 120px;
+}
+
+.contact p {
+  color: #090346;
+  font-size: 20px;
+}
+
+.contact {
+  margin-left: 130px;
+}
+
+.section {
+  background-color: #ebebf0;
+}
+
+.information {
+  width: 1440px;
+  height: 546px;
+  margin-top: 120px;
+  margin-left: 130px;
+  flex-direction: column;
+}
+
+.information h1 {
+  color: #19126b;
+  text-size: 36px;
+  font-weight: 400;
+}
+
+address {
+  display: block;
+  font-style: normal;
+}
+span {
+  color: #0d69a9;
+  flex-direction: column;
+}
+
+.information a {
+  color: #000000;
+  flex-direction: column;
+}
+
+iframe {
+  margin-left: 630px;
+  width: 680px;
+  height: 374px;
+}
