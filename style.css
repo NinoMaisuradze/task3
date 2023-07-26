@@ -103,8 +103,6 @@ footer .middle {
   margin: 0;
 }
 
-.old-car {
-  float: right;
-  width: 566px;
-  height: 371px;
+.history p {
+  color: #090346;
 }
