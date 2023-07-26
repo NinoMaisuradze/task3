@@ -94,14 +94,8 @@ footer .middle {
   justify-content: space-between;
 }
 
-.history .title {
-  color: #19126b;
-  font-size: 36px;
-  font-weight: 400;
-  margin-top: 73px;
-  margin-right: 1068px;
-  margin-bottom: 399px;
-  margin-left: 130px;
+.history img {
+  height: 250px;
 }
 
 .history .description {
