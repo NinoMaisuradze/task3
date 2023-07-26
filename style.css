@@ -98,9 +98,9 @@ footer .middle {
   height: 250px;
 }
 
-.history .description {
-  color: #090346;
-  font-size: 20px;
+.history h1 {
+  color: #19126b;
+  margin: 0;
 }
 
 .old-car {
